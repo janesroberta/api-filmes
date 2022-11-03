@@ -9,6 +9,7 @@
   "author": "Janes Roberta <108099951+janesroberta@users.noreply.github.com>",
   "license": "MIT",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.18.2"
   }
 }
